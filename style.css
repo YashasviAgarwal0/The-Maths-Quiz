@@ -1,0 +1,32 @@
+body 
+{
+    background-image: linear-gradient(to right, black, grey, whitesmoke);
+    color: red;
+    font-family: monospace;
+}
+
+#button 
+{
+    position: center;
+}
+
+.login_div1, .login_div2 
+{
+    background-color: white; 
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
+
+#player1_name, #player2_name
+{
+    display: inline-block;
+    color: red;
+}
+#output
+{
+    background-color: white;
+    border-radius: 25px;
+    width: 60%;
+    padding:10px;
+}
